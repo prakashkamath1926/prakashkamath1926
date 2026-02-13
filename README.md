@@ -1,4 +1,4 @@
-## Hi there 👋 I am Prakash Kamath
+## Hi there, 👋 I am Prakash Kamath
 
 <!--
 **prakashkamath1926/prakashkamath1926** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

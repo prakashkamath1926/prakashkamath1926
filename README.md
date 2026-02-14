@@ -43,6 +43,11 @@ class prakashkamath1926:
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<div align="center">
+  <a href="https://open.spotify.com/user/jx63ghwn1pizjuaudvgvgftqv">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=jx63ghwn1pizjuaudvgvgftqv&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=prakashkamath1926&icon=1&color=1)](https://visitcount.itsvg.in)

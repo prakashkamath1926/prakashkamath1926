@@ -1,7 +1,7 @@
 ## Hi there, 👋 I am Prakash Kamath
 
 
-class prakashkamath1926:
+    class prakashkamath1926:
     def __init__(self):
         self.username = "Prakash Kamath"
         self.role = "Developer & Tech Enthusiast"

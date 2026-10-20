@@ -1,10 +1,6 @@
 ## Hi there, 👋 I am Prakash Kamath
 
-<div align="center">
-  <img src="./assets/robot-hud.svg"
-       width="800"
-       alt="Futuristic cyan wireframe robot dashboard"/>
-</div>
+
 class prakashkamath1926:
     def __init__(self):
         self.username = "Prakash Kamath"
